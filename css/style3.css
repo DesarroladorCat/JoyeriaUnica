@@ -1,0 +1,30 @@
+  .contenedor-imagenes {
+    display: flex;
+  }
+  .contenedor-imagenes img:first-child {
+    margin-right: 1px;
+  }
+.texto1{
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 20px;
+}
+.texto2{
+  position: absolute;
+  top: 30px;
+  left:10px;
+}
+.texto3{
+  position: absolute;
+  top: 60px;
+  left: 10px;
+}
+.texto4{
+  position: absolute;
+  top: 90px;
+  left: 10px;
+}
+.contenedor{
+  font-family: 'Droid Serif';  font-size: 12px;
+}

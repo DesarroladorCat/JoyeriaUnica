@@ -1,0 +1,10 @@
+body {
+    background-image: url("../img/Contactanos.png");
+    background-size: 1370px 620px;
+    overflow: hidden;
+  }
+  .contenedor{
+    font-family: 'TT Commons', sans-serif;
+    text-align: center!important;
+
+  }

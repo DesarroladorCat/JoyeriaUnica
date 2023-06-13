@@ -1,0 +1,21 @@
+body {
+    background-image: url("../img/Fondo.png");
+    background-size: 1360px 810px;
+    overflow: hidden;
+  }
+.contenedor{
+    font-family: 'TT Commons', sans-serif;
+    font-size: xx-large;
+}
+.contenedor-imagenes {
+    display: flex;
+  }
+  .contenedor-imagenes img:first-child {
+    margin-right: 20px;
+  }
+  .p1 {
+    color: white;
+    font-family: fantasy;
+    font-size: 20px;
+    font-weight: bold;
+}

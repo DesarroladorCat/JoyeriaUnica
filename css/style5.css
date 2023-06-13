@@ -1,0 +1,8 @@
+body {
+    background-image: url("../img/Bienvenidos.png");
+    background-size: 1360px 810px;
+    overflow: hidden;
+  }
+  .bienvenida{
+    align-items: baseline;
+  }
